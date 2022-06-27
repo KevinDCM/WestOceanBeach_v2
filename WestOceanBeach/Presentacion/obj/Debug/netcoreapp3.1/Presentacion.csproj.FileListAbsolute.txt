@@ -1,0 +1,195 @@
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\Katherine MG\Desktop\WestOceanBeach\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.exe
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.deps.json
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.json
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.runtimeconfig.dev.json
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Presentacion.Views.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfoInputs.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.AssemblyInfo.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CoreCompileInputs.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorAssemblyInfo.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\Presentacion.StaticWebAssets.Manifest.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.input.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.TagHelpers.output.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorCoreGenerate.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.RazorTargetAssemblyInfo.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.Views.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.CopyComplete
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache

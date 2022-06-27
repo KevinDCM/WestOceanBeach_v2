@@ -1,0 +1,30 @@
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

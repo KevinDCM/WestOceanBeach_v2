@@ -1,0 +1,45 @@
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\AccessData.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\AccessData.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\AccessData.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\AccessData.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\AccessData.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\AccessData.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\Business\obj\Debug\netcoreapp3.1\Business.pdb

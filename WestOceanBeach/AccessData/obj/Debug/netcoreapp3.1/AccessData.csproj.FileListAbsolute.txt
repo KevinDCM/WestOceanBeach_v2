@@ -1,0 +1,39 @@
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\AccessData.deps.json
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\AccessData.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\AccessData.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.csproj.AssemblyReference.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.AssemblyInfoInputs.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.AssemblyInfo.cs
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.csproj.CoreCompileInputs.cache
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.csproj.CopyComplete
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.dll
+C:\Users\Katherine MG\Documents\GitHub\WestOceanBeach\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\AccessData.deps.json
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\AccessData.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\AccessData.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.csproj.AssemblyReference.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.AssemblyInfoInputs.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.AssemblyInfo.cs
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.csproj.CoreCompileInputs.cache
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.csproj.CopyComplete
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.dll
+C:\Users\Katherine MG\Desktop\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\AccessData.deps.json
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\AccessData.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\AccessData.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.csproj.AssemblyReference.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.AssemblyInfoInputs.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.AssemblyInfo.cs
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.csproj.CoreCompileInputs.cache
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.csproj.CopyComplete
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.dll
+D:\Usuarios\Estudiante\Downloads\Prueba West Nueva Plan\WestOceanBeach\WestOceanBeach\AccessData\obj\Debug\netcoreapp3.1\AccessData.pdb
